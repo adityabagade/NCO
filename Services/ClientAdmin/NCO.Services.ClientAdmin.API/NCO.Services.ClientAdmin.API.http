@@ -1,0 +1,6 @@
+@NCO.Services.ClientAdmin.API_HostAddress = http://localhost:5084
+
+GET {{NCO.Services.ClientAdmin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
